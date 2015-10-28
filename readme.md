@@ -2,4 +2,4 @@
 
 This is page about MCC LT.
 
-powered by [Rin 4](http://sanographix.github.io/rin/,"Rin 4")
+powered by [Rin 4](http://sanographix.github.io/rin)
